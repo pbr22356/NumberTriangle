@@ -100,6 +100,7 @@ public class NumberTriangle {
                 curr = curr.right;
             }
         }
+
         return curr.root;
     }
 
